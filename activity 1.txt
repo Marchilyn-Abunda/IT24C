@@ -1,0 +1,29 @@
+Activity 1:
+
+1. IT20A repository
+2. Folder documents "Lastname_IT20A"
+3. Folder should be initialized as git repository
+4. Create java class "Hello World"
+5. Add, commit, push sa Github
+
+
+
+Git commands
+
+Configuration:
+
+git init
+
+git config user.name "Marchilyn Abunda"
+git config user.email marchilynabunda@gmail.com
+git config color.ui auto
+
+git status
+git add filename / git add .
+git commit -m "Your message here"
+git log -- oneline
+
+
+git branch -M main
+git remote add origin "repo link here"
+git push -u origin main
