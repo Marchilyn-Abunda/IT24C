@@ -16,20 +16,13 @@ let quotes = [
 let displayQuote = document.getElementById("quoteDisplay");
 
 function displayRandom() {
-  for (let i = 0; i < quotes.length; i++) {
+  
     let randomIndex = Math.floor(Math.random() * quotes.length);
 
     displayQuote.textContent = quotes[randomIndex];
-  }
+  
 }
 
-//   for (let i = 0; i < quotes.length; i++) {
-//     const randomIndex = Math.floor(Math.random() * quotes.length);
 
-//     document.getElementById("surprise").addEventListener("click", function(){
-//          displayQuote.textContent = quotes[randomIndex];
-//     });
-   
-//   }
 
 
