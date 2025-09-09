@@ -1,0 +1,12 @@
+Add CSS to HTML
+
+1. External CSS
+2. Internal CSS
+3. Inline CSS
+
+CTRL + / (Comment is vscode)
+
+Add JavaScript
+1. External
+2. Internal
+3. Inline
