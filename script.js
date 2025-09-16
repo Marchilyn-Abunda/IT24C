@@ -1,6 +1,3 @@
-// document.getElementById("btn").addEventListener("click" , function(){
-// alert("Button was clicked!");
-// });
 
 function updateDisplay() {
   let textbox = document.getElementById("textbox");
